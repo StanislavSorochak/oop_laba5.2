@@ -1,0 +1,22 @@
+﻿  Source.cpp
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(64,40): warning C5043: "Time::Time2": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(45): message : см. объявление "Time::Time2"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(68,42): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(68,44): warning C5043: "Time::Time3": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(46): message : см. объявление "Time::Time3"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(72,44): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(72,46): warning C5043: "Time::Time4": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(47): message : см. объявление "Time::Time4"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(76,43): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(76,45): warning C5043: "Time::Time5": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(48): message : см. объявление "Time::Time5"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(80,41): warning C4290: спецификация исключений C++ игнорируется, кроме случая, когда указывается, что функция не является __declspec(nothrow)
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(80,43): warning C5043: "Time::Time6": спецификация исключения не соответствует предыдущему объявлению
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(49): message : см. объявление "Time::Time6"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(102,18): warning C5043: "terminate": спецификация исключения не соответствует предыдущему объявлению
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_terminate.h(29): message : см. объявление "terminate"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(102,18): warning C4273: terminate: несовместимое связывание dll
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_terminate.h(29,48): message : см. предыдущее определение "terminate"
+C:\Users\Пользователь\source\repos\oop_laba5.2\oop_laba5.2\Source.cpp(176,3): warning C4286: E: перехвачено базовым классом ("std::exception") в строке 172
+     Создается библиотека C:\Users\Пользователь\source\repos\oop_laba5.2\Debug\oop_laba5.2.lib и объект C:\Users\Пользователь\source\repos\oop_laba5.2\Debug\oop_laba5.2.exp
+  oop_laba5.2.vcxproj -> C:\Users\Пользователь\source\repos\oop_laba5.2\Debug\oop_laba5.2.exe
